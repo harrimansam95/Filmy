@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "620742325872",
+    "firebase_url": "https://filmy-1579480550872.firebaseio.com",
+    "project_id": "filmy-1579480550872",
+    "storage_bucket": "filmy-1579480550872.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620742325872:android:145b8b26fea3ea2acc26b5",
+        "android_client_info": {
+          "package_name": "com.filmfinder.filmy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620742325872-mcdl8pshui0hmm02u01jmmfv07tprqaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6d5nTomlkACgcyNdGM-wbB5xOz25Xbbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620742325872-mcdl8pshui0hmm02u01jmmfv07tprqaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
